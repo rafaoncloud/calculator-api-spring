@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="api-module" />
+        <module name="business-logic-module" />
+        <module name="calculator-api-multi-module (1) (business-logic-module)" />
+        <module name="calculator-api-multi-module (2) (data-module)" />
+        <module name="calculator-api-multi-module (3) (rest-api-module)" />
+        <module name="data-module" />
+        <module name="rest-api-module" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="api-module" target="1.8" />
+      <module name="business-logic-module" target="1.8" />
+      <module name="calculator-api-multi-module" target="1.5" />
+      <module name="calculator-api-multi-module (1) (business-logic-module)" target="1.8" />
+      <module name="calculator-api-multi-module (2) (data-module)" target="1.8" />
+      <module name="calculator-api-multi-module (3) (rest-api-module)" target="1.8" />
+      <module name="data-module" target="1.8" />
+      <module name="rest-api-module" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="api-module" options="-parameters" />
+      <module name="business-logic-module" options="-parameters" />
+      <module name="calculator-api-multi-module (1) (business-logic-module)" options="-parameters" />
+      <module name="calculator-api-multi-module (2) (data-module)" options="-parameters" />
+      <module name="calculator-api-multi-module (3) (rest-api-module)" options="-parameters" />
+      <module name="data-module" options="-parameters" />
+      <module name="rest-api-module" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/rest-api-module/api-module.iml" filepath="$PROJECT_DIR$/rest-api-module/api-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/business-logic-module/business-logic-module.iml" filepath="$PROJECT_DIR$/business-logic-module/business-logic-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculator-api-multi-module.iml" filepath="$PROJECT_DIR$/calculator-api-multi-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/business-logic-module/calculator-api-multi-module (1) (business-logic-module).iml" filepath="$PROJECT_DIR$/business-logic-module/calculator-api-multi-module (1) (business-logic-module).iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-module/calculator-api-multi-module (2) (data-module).iml" filepath="$PROJECT_DIR$/data-module/calculator-api-multi-module (2) (data-module).iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-api-module/calculator-api-multi-module (3) (rest-api-module).iml" filepath="$PROJECT_DIR$/rest-api-module/calculator-api-multi-module (3) (rest-api-module).iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-module/data-module.iml" filepath="$PROJECT_DIR$/data-module/data-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-api-module/rest-api-module.iml" filepath="$PROJECT_DIR$/rest-api-module/rest-api-module.iml" />
+    </modules>
+  </component>
+</project>
